@@ -1,2 +1,2 @@
 # hello-world
-GitHub最初のリポジトリ
+I love☕,🍕,and🏄
